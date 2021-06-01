@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '羊毛',
-  domain: 'jyh.farley',
+  domain: 'jyh.farley.com',
   author: 'jyh.farley',
 
   // open graph metadata (optional)
